@@ -1,0 +1,4 @@
+nginx
+nginx.*\.conf$|\.nginx$|\.sub(domain|folder)\.conf$
+^(server|upstream)[a-z ]*\{$
+

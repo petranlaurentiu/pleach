@@ -1,0 +1,15 @@
+Pleach is derived from Micro, a terminal text editor.
+
+  Copyright (c) 2016-2020 Zachary Yedidia, et al.
+  https://github.com/micro-editor/micro
+
+Micro is licensed under the MIT License. See LICENSE.
+
+The bundled file tree is based on the Micro filemanager plugin
+(https://github.com/micro-editor/updated-plugins), also MIT-licensed.
+
+The Agent panel runs Herdr (https://github.com/herdrdev/herdr), Apache 2.0.
+Pleach locates a local herdr binary or downloads the official release; it is
+not a fork of Herdr. Color themes named after Herdr's built-in palettes
+(Catppuccin, Tokyo Night, Nord, Rosé Pine, Kanagawa, Vesper, and others)
+are independent Micro colorschemes using those public palettes.

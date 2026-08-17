@@ -1,0 +1,4 @@
+c++
+(\.c(c|pp|xx)$|\.h(h|pp|xx)?$|\.ii?$|\.(def)$)
+
+\b(namespace|class|public|protected|private|template|constexpr|noexcept|nullptr|throw)\b

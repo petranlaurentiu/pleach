@@ -1,0 +1,4 @@
+B
+\.b$
+
+\b(if|else|while|switch|case|default|break|return|goto|extrn|auto)\b

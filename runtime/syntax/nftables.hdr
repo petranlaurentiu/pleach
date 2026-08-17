@@ -1,0 +1,4 @@
+nftables
+(nftables\.(conf|rules)$|nftables(\.rules)?\.d/)
+^(#!.*/(env +)?nft( |$)|flush +ruleset)
+

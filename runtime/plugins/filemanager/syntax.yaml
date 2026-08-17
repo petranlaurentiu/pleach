@@ -1,0 +1,9 @@
+filetype: filemanager
+
+detect:
+    filename: "^filemanager$"
+
+rules:
+    - comment: "^EXPLORER$"
+    - special: "^\\.\\.$|↑|▸|▾"
+    - identifier: "^\\s*▾\\s+.*$|^\\s*▸\\s+.*$"
